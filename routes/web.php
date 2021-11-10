@@ -13,7 +13,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 echo"HELLO　WORLD" ;
-//Route::get('/', function () {
-    //return "HELLO" ;
-
+Route::get('/', function () {
+    return "HELLO4545454" ;
+});
+?>
 
